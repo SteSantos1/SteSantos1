@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Eu sou a Stephanie
 
-<!--
-**SteSantos1/SteSantos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software**, interessada em desenvolvimento de software e tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou construindo minha experiência por meio de projetos acadêmicos e pessoais, buscando aprender na prática e desenvolver minhas habilidades em programação.
+
+Tenho experiência com:
+
+* Python
+* JavaScript
+* HTML e CSS
+* React Native
+* TypeScript
+
+## Projetos
+
+**LarAmigoApp**
+Aplicativo mobile para adoção responsável de animais, desenvolvido como Projeto Integrador.
+
+**Cafeteria**
+Site desenvolvido com HTML e CSS, com páginas para apresentação de uma cafeteria.
+
+**Catálogo Primart's**
+Catálogo digital desenvolvido em HTML para apresentação de produtos.
+
+## Atualmente estudando
+
+* Programação
+* Engenharia de Software
+* Desenvolvimento mobile
+* Banco de dados
+* Desenvolvimento de aplicações
+
+## Contato
+
+**LinkedIn:** Stephanie Rocha dos Santos
